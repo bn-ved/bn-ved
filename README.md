@@ -19,4 +19,5 @@ Backend engineer (**Java**, 5.5+ years) building robust systems and leveling up 
 
 ### Connect
 - 📫 bn.ved.nayak@gmail.com
+- 🐦 [@bn_ved](https://twitter.com/bn_ved)
 <!-- Remove the email above if you'd rather not list it publicly. -->
